@@ -1,0 +1,2 @@
+# takoratch_kakipi_demo
+タコラッチの柿ピー判別でもプログラム
